@@ -1,0 +1,14 @@
+/Users/dikennaogbo/Documents/18.bot-authentication/bin/Debug/netcoreapp2.1/AuthenticationBot.deps.json
+/Users/dikennaogbo/Documents/18.bot-authentication/bin/Debug/netcoreapp2.1/AuthenticationBot.runtimeconfig.json
+/Users/dikennaogbo/Documents/18.bot-authentication/bin/Debug/netcoreapp2.1/AuthenticationBot.runtimeconfig.dev.json
+/Users/dikennaogbo/Documents/18.bot-authentication/bin/Debug/netcoreapp2.1/AuthenticationBot.dll
+/Users/dikennaogbo/Documents/18.bot-authentication/bin/Debug/netcoreapp2.1/AuthenticationBot.pdb
+/Users/dikennaogbo/Documents/18.bot-authentication/obj/Debug/netcoreapp2.1/AuthenticationBot.csprojAssemblyReference.cache
+/Users/dikennaogbo/Documents/18.bot-authentication/obj/Debug/netcoreapp2.1/AuthenticationBot.csproj.CoreCompileInputs.cache
+/Users/dikennaogbo/Documents/18.bot-authentication/obj/Debug/netcoreapp2.1/AuthenticationBot.RazorAssemblyInfo.cache
+/Users/dikennaogbo/Documents/18.bot-authentication/obj/Debug/netcoreapp2.1/AuthenticationBot.RazorAssemblyInfo.cs
+/Users/dikennaogbo/Documents/18.bot-authentication/obj/Debug/netcoreapp2.1/AuthenticationBot.AssemblyInfoInputs.cache
+/Users/dikennaogbo/Documents/18.bot-authentication/obj/Debug/netcoreapp2.1/AuthenticationBot.AssemblyInfo.cs
+/Users/dikennaogbo/Documents/18.bot-authentication/obj/Debug/netcoreapp2.1/AuthenticationBot.RazorTargetAssemblyInfo.cache
+/Users/dikennaogbo/Documents/18.bot-authentication/obj/Debug/netcoreapp2.1/AuthenticationBot.dll
+/Users/dikennaogbo/Documents/18.bot-authentication/obj/Debug/netcoreapp2.1/AuthenticationBot.pdb
